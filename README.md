@@ -23,7 +23,7 @@
 - Evaluate each model on the testing set
 - Choose the best model based on performance
 ## Conclusion
-- In the end we have come to this conclusion Logistic regression accuracy is 81.3% Random Forest classification accuracy is 95.9%, and Decision Tree classification accuracy is 95.3%
-- By this we get to know that the Random Forest classification is best algo on this dataset
+- In the end, we have come to this conclusion Logistic regression accuracy is 81.3% Random Forest classification accuracy is 95.9%, and Decision Tree classification accuracy is 95.3%
+- By this, we get to know that the Random Forest classification is best algo on this dataset
 
 
