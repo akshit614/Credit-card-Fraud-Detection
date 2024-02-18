@@ -8,7 +8,7 @@
 # Steps in building this project
 
 ## Data importing
--Import the dataset from Kaggle
+- Import the dataset from Kaggle
 - Unzip the dataset and use it
 ## Steps in data preprocessing
 - Gaining insights and information about data
